@@ -1,0 +1,14 @@
+.butn{
+    
+padding: 0.5rem 1.2rem 0.5rem 1.2rem; 
+background-color: darkmagenta; 
+color: white; font-size: 1.2rem;
+border:none; 
+
+}
+
+.butn:hover{
+    background-color: rgb(56, 5, 104);
+    transition: 0.4s all;
+    padding: 0.5rem 1.3rem 0.5rem 1.3rem;
+}
