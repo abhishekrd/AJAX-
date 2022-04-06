@@ -21,4 +21,6 @@ function fetchPosts() {
 // Special thing is "No Need to Write onprogress and onload events!!!"
 
     xhr.send();
+
+    
 }
